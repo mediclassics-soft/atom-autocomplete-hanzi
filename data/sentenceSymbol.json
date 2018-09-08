@@ -1,0 +1,14 @@
+[
+	{ "source": "<", "target": "『』", "desc": "전각"},
+	{ "source": ">", "target": "「」", "desc": "전각"},
+	{ "source": "<", "target": "󰡔󰡕", "desc": "반각"},
+	{ "source": ">", "target": "｢｣", "desc": "반각"},
+	{ "source": "<", "target": "《》", "desc": "전각"},
+	{ "source": ">", "target": "〈〉", "desc": "전각"},
+	{ "source": "<", "target": "〔〕", "desc": "전각"},
+	{ "source": ">", "target": "［］", "desc": "전각"},
+	{ "source": ">", "target": "【】", "desc": "전각"},
+	{ "source": ".", "target": "。", "desc": "맞침표/중국"},
+	{ "source": ",", "target": "，", "desc": "쉼표/전각"},
+	{ "source": ",", "target": "、", "desc": "중점/중국"}
+]

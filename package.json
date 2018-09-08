@@ -1,15 +1,15 @@
 {
-  "name": "autocomplete-boilerplate",
+  "name": "haniToolBox",
   "main": "./lib/main",
-  "version": "0.2.0",
+  "version": "0.1.0",
   "description": "Boilerplate package for creating your own custom autocomplete provider for Atom.",
   "keywords": [
-    "autocomplete",
-    "provider",
-    "boilerplate"
+    "hanzi",
+    "tools",
+    "replace"
   ],
-  "repository": "https://github.com/lonekorean/atom-autocomplete-boilerplate",
-  "author": "Will Boyd <will@codersblock.com> (http://codersblock.com)",
+  "repository": "https://github.com/pinedance/atom-hanziToolBox",
+  "author": "Junho Oh <pinedance@gmail.com> (https://github.com/pinedance)",
   "license": "MIT",
   "engines": {
     "atom": ">=1.15.0 <2.0.0"
