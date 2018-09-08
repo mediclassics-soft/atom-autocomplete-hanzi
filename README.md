@@ -24,6 +24,6 @@ Don't forget to reload Atom when you make changes!
 - On Windows, hit `ctrl` + `shift` + `F5`.
 
 
-## Inspiring
+## Inspired
 
 * [autocomplete-boilerplate](https://atom.io/packages/autocomplete-boilerplate)
