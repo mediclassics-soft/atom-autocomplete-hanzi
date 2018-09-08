@@ -1,14 +1,14 @@
 {
-  "name": "haniToolBox",
+  "name": "zayo-atom-autocomplete-hanzi",
   "main": "./lib/main",
   "version": "0.1.0",
-  "description": "Boilerplate package for creating your own custom autocomplete provider for Atom.",
+  "description": "A Package for hanzi autocomplete provider for Atom.",
   "keywords": [
     "hanzi",
     "tools",
     "replace"
   ],
-  "repository": "https://github.com/pinedance/atom-hanziToolBox",
+  "repository": "https://github.com/pinedance/zayo-atom-autocomplete-hanzi",
   "author": "Junho Oh <pinedance@gmail.com> (https://github.com/pinedance)",
   "license": "MIT",
   "engines": {

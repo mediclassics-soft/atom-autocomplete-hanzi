@@ -1,6 +1,6 @@
-# HanziToolBox
+# zayo-atom-autocomplete-hanzi
 
-A package for manipulating korean and hanzi character in Atom.
+A Package for hanzi autocomplete provider for Atom.
 
 ## Introduction
 
