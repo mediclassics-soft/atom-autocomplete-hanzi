@@ -25,12 +25,13 @@ Don't forget to reload Atom when you make changes!
 
 ## Usage
 
-`$`를 입력하고 변환하고자 하는 단어를 입력하면 자동완성 단어들이 제시된다. 예를 들어 `$홍길동`처럼 입렵한다.
+`!`를 입력하고 변환하고자 하는 단어를 입력하면 자동완성 단어들이 제시된다. 예를 들어 `!홍길동`처럼 입렵한다.
 
-`$<`, `$>`, `$,`, `$.` 등을 입력하면 키보드에 없는 기호를 자동입력 할 수 있다.
+`!<`, `!>`, `!,`, `!.` 등을 입력하면 키보드에 없는 기호를 자동입력 할 수 있다.
 
 새로 추가하고자 하는 custom data가 있다면 `/data/custom.json`에 추가하여 사용한다.
 
 ## Inspired
 
 * [autocomplete-boilerplate](https://atom.io/packages/autocomplete-boilerplate)
+* [autocomplete-plus](https://github.com/atom/autocomplete-plus/wiki)
