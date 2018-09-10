@@ -1,6 +1,6 @@
 [
 	{ "source": "홍길동", "target": "洪佶動", "desc": "예시"},
-	{ "source": "새문단", "target": "((LV))\t${1}\n((OR))\t${2}\n((KO))\t${3}\n\n", "desc": "문단추가", "name": "LV:OR:KO"}
+	{ "source": "새문단", "target": "((LV))\t${1}\n((OR))\t${2}\n((KO))\t${3}\n\n", "desc": "문단추가", "name": "LV:OR:KO"},
+	{ "source": "U", "target": "<U>${1}</U>", "desc": "underline", "name": "markdown.underline"},
+	{ "source": "S", "target": "<small>${1}</small>", "desc": "small", "name": "html.small"}
 ]
-
-	

@@ -10,6 +10,8 @@
 	{ "source": "<", "target": "［］", "desc": "전각"},
 	{ "source": "<", "target": "「」", "desc": "전각"},
 	{ "source": ".", "target": "。", "desc": "마침표/중국"},
+	{ "source": ".", "target": "：", "desc": "마침표/중국"},
 	{ "source": ",", "target": "，", "desc": "쉼표/중국"},
-	{ "source": ",", "target": "、", "desc": "모점/중국"}
+	{ "source": ",", "target": "、", "desc": "모점/중국"},
+	{ "source": ",", "target": "；", "desc": "모점/중국"}
 ]
