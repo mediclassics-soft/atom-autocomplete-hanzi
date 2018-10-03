@@ -1,7 +1,7 @@
 {
   "name": "zayo-atom-autocomplete-hanzi",
   "main": "./lib/main",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "A Package for hanzi autocomplete provider for Atom.",
   "keywords": [
     "hanzi",
